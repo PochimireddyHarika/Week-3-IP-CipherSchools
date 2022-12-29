@@ -1,0 +1,24 @@
+body :not(.fancy){
+    color: blueviolet;
+    background-color: #ddd;
+}
+
+div:empty{
+    background: #222;
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+
+}
+:root{
+    background-color: #333;
+    color: #eee;
+}
+html{
+    background: red;
+    color: whie;
+}
+body{
+    background: #222;
+    color:#eee;
+}

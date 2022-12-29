@@ -1,0 +1,19 @@
+.cool::before{
+    content: 'hello';
+    color: brown;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 5px
+}
+.cool::after{
+    content: 'hello';
+    color: cyan;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 5px
+}
+
+.main-heading::before{
+    content: 'hello' ;
+    color: brown;
+}

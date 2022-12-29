@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 10px;
+    background-color: chocolate;
+}
+p{
+    margin: 8px;
+    padding:20px;
+    background-color: brown;
+    text-decoration: dotted;
+}

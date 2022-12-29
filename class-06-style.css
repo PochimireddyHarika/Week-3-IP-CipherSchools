@@ -1,0 +1,23 @@
+a.link{
+    color:orangered;
+}
+
+a:visited{
+    color:yellowgreen;
+}
+
+a:hover{
+    color:brown;
+}
+
+a:active{
+    color:black;
+}
+
+p:hover{
+    color:green;
+}
+
+p:active{
+    background:#ccc;
+}

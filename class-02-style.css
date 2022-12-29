@@ -1,0 +1,15 @@
+body{
+    color: chocolate;
+}
+
+.container1{
+    color: cyan;
+}
+.container2{
+    color: rgba(220, 20, 60, 0.779);
+}
+
+a{
+    color:indianred;
+    text-decoration: none;
+}
